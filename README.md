@@ -1,6 +1,6 @@
 <h1>[FLAMB STACK]</h1>
 
-<h2 >FLAMB Stack is a technology stack for full-stack mobile development that includes Flutter, Laravel, API, and MySQL. With FLAM Stack, you can build high-quality mobile applications with a robust backend that can handle complex data processing.</h2>
+<h2 >FLAMB Stack is a technology stack for full-stack mobile development that includes Flutter, Laravel, API, MySQL, and BLoC state management. With FLAMB Stack, you can build high-quality mobile applications with a robust backend that can handle complex data processing, as well as manage app state in a scalable and efficient way.</h2>
 
 <br/>
 Technologies Used:
